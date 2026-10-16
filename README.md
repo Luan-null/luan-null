@@ -47,7 +47,7 @@ Projeto web multipágina desenvolvido com foco na apresentação visual, organiz
 
 <!-- TODO: Substitua SEU-REPOSITORIO-7SEAS pelo nome real do repositório, caso esteja público. -->
 
-[![Ver código](https://img.shields.io/badge/Código--fonte-181717?style=flat-square&logo=github)](https://github.com/Luan-null/SEU-REPOSITORIO-7SEAS)
+[![Ver código](https://img.shields.io/badge/Código--fonte-181717?style=flat-square&logo=github)](https://github.com/Luan-null/7seas)
 
 ### ⚓ Hafen / Bluehaven Group
 
