@@ -44,13 +44,13 @@ Construindo projetos, aprendendo novas tecnologias e transformando ideias em có
 
 Projeto web voltado ao turismo, com foco na apresentação de informações e na experiência de navegação.
 
-[Trilha Turismo Brasil: adicionar link do projeto](https://github.com/Luan-null/trilha-turismo-brasil)
+[Trilha Turismo Brasil](https://github.com/Luan-null/trilha-turismo-brasil)
 
 ### 🕹️ Retro Arcade
 
 Projeto com temática retrô, explorando a construção visual de uma página inspirada no universo dos jogos.
 
-[Retro Arcade: adicionar link do projeto](https://github.com/Luan-null/retro-arcade-game)
+[Retro Arcade](https://github.com/Luan-null/retro-arcade-game)
 
 ## `github_stats` — Minha atividade
 
