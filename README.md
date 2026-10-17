@@ -39,42 +39,18 @@ Construindo projetos, aprendendo novas tecnologias e transformando ideias em có
 
 ## `featured_projects` — Projetos em destaque
 
-### 🌊 7Seas Global
-
-Projeto web multipágina desenvolvido com foco na apresentação visual, organização do conteúdo e responsividade.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-<!-- TODO: Substitua SEU-REPOSITORIO-7SEAS pelo nome real do repositório, caso esteja público. -->
-
-[![Ver código](https://img.shields.io/badge/Código--fonte-181717?style=flat-square&logo=github)](https://github.com/Luan-null/7seas)
-
-### ⚓ Hafen / Bluehaven Group
-
-Projetos web com foco em identidade visual, estrutura de páginas e construção de interfaces para uma presença digital consistente.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-<!-- TODO: Adicione os links reais dos repositórios se puder torná-los públicos. -->
-
-[Hafen: adicionar link do projeto](https://github.com/Luan-null)
-· [Bluehaven Group: adicionar link do projeto](https://github.com/Luan-null)
 
 ### 🧭 Trilha Turismo Brasil
 
 Projeto web voltado ao turismo, com foco na apresentação de informações e na experiência de navegação.
 
-<!-- TODO: Substitua o link abaixo pelo repositório ou demonstração real. -->
-
-[Trilha Turismo Brasil: adicionar link do projeto](https://github.com/Luan-null)
+[Trilha Turismo Brasil: adicionar link do projeto](https://github.com/Luan-null/trilha-turismo-brasil)
 
 ### 🕹️ Retro Arcade
 
 Projeto com temática retrô, explorando a construção visual de uma página inspirada no universo dos jogos.
 
-<!-- TODO: Substitua o link abaixo pelo repositório real. -->
-
-[Retro Arcade: adicionar link do projeto](https://github.com/Luan-null)
+[Retro Arcade: adicionar link do projeto](https://github.com/Luan-null/retro-arcade-game)
 
 ## `github_stats` — Minha atividade
 
